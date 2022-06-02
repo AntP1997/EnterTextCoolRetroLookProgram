@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654121775 source:c:\users\zeroday\documents\dev\loadingprogram\main.cpp
+	<iostream>
+	<unistd.h>
+	<ctime>
+
